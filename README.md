@@ -7,3 +7,7 @@ Implementation of Bing Maps V8 API for Web.
 Clone the Repository!
 
 Run Index.html
+
+
+### Contributors
+* [Divyanshi Mishra](https://github.com/divyanshi-mishra)
