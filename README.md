@@ -1,4 +1,4 @@
-# bingmapsV8
+# hospital-locator-bing
 Implementation of Bing Maps V8 API for Web.
 
 
